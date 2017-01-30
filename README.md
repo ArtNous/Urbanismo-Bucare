@@ -1,8 +1,8 @@
 # Datos geograficos de las parcelas
 
-Aqui puedes encontrar los datos SIG para la urbanizacion El Bucare, ubicada en Tres Esquinas Trujillo.
+Aqui vas a poder encontrar los datos SIG para la urbanizacion El Bucare, ubicada en Tres Esquinas Trujillo.
 
-En esta urb hay mas de 100 familias y sus viviendas estan divididas en su mayoria en parcelas de 8m x 22m.
+En esta urbanización hay mas de 100 familias y sus viviendas estan divididas en su mayoria en parcelas de 8m x 22m.
 
 # Diagnosticos
 
