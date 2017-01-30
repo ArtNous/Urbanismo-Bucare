@@ -1,0 +1,11 @@
+{
+	"type":"FeatureCollection",
+	"Features":[{
+		"type":"Feature",
+		"geometry":{
+			"type":"Polygon",
+			"coordinates":[[-70.446062,9.418276],[-70.446192,9.418240],[-70.446169,9.418404],[-70.446025,9.418346]]
+		},
+		"properties":{"KWh/mes":15}
+	}]
+}
